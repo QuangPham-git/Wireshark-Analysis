@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project demonstrates network security analysis using Wireshark and Snort IDS. It focuses on capturing and analyzing network traffic to identify vulnerabilities, such as plaintext credentials and hidden traffic, and implements Snort for real-time intrusion detection and alerting.
 
 Tools Used:
